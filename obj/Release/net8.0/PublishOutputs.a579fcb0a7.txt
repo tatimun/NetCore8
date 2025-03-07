@@ -1,0 +1,7 @@
+C:\Users\tatia\Documents\NetCore8\MiWebApp\publish\MiWebApp.exe
+C:\Users\tatia\Documents\NetCore8\MiWebApp\publish\appsettings.Development.json
+C:\Users\tatia\Documents\NetCore8\MiWebApp\publish\appsettings.json
+C:\Users\tatia\Documents\NetCore8\MiWebApp\publish\MiWebApp.dll
+C:\Users\tatia\Documents\NetCore8\MiWebApp\publish\MiWebApp.deps.json
+C:\Users\tatia\Documents\NetCore8\MiWebApp\publish\MiWebApp.runtimeconfig.json
+C:\Users\tatia\Documents\NetCore8\MiWebApp\publish\MiWebApp.pdb
