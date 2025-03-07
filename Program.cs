@@ -14,4 +14,3 @@ app.MapGet("/health", () => Results.Ok(new { status = "Healthy", timestamp = Dat
 app.MapGet("/", () => "¡Hola, Tati! Esta es una API en .NET 8 desplegada en Azure Web App 🎉");
 
 app.Run();
-// add
